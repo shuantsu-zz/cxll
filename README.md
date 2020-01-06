@@ -12,3 +12,5 @@ Close button on menu can be glitchy.
 Optimized for mobile.
 You can choose random orientation or your own for each corner case on the options menu.
 Click on a case to make it green. Can help track the one you're solving.
+
+https://shuantsu.github.io/cxll/
