@@ -2,7 +2,7 @@
 
 ![Screenshot](cxlltrainer.png)
 
-##Issues:
+## Issues:
 
 It may take a good while to load, please be patient.
 Close button on menu can be glitchy.
