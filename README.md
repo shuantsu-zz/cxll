@@ -2,7 +2,7 @@
 
 A simple CxLL trainer
 
-<kbd>![Screenshot](cxlltrainer.png)</kbd>
+<kbd>![Thumbnail](thumb.png)</kbd>
 
 ## Features:
 
