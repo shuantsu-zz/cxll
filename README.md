@@ -1,6 +1,6 @@
 # CxLL Trainer
 
-![Screenshot](cxlltrainer.png)
+<kbd>![Screenshot](cxlltrainer.png)</kbd>
 
 ## Issues:
 
