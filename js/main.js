@@ -1,3 +1,5 @@
+$('#loader').fadeOut();
+
 const SRVisualizer = window['sr-visualizer'];
 
 let set = "o";
